@@ -6,4 +6,4 @@ University of Havana, Havana, Cuba
 - [yupi](https://github.com/yupidevs/yupi)
 - [Movilidad y COVID](https://github.com/torresanton/Movilidad-COVID-19)
 - [GBP for Graph Alignment ](https://github.com/carloscheo/GBP_for_GA)
-- [City Path Tomography] (https://github.com/androdl96/Path_tom_hav)
+- [City Path Tomography](https://github.com/androdl96/Path_tom_hav)
