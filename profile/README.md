@@ -10,3 +10,4 @@ University of Havana, Havana, Cuba
 
 ## Teaching
 - [Electrónica II](https://github.com/androdl96/Arduino_for_electronics2)
+- [Epidemics-on-Networks](https://github.com/FF-UH/Epidemics-on-Networks)
